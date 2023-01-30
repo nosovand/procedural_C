@@ -9,4 +9,4 @@ pC6 - Ceasar cipher decoder\
 pC7 - basic matrix operations\
 pC8 - number series statistics\
 pC9 - text analysis\
-pC10 - XML tags processing\
+pC10 - XML tags processing
